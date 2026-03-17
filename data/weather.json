@@ -1,7 +1,7 @@
 {
   "coord": {
-    "lon": -0.1257,
-    "lat": 51.5085
+    "lon": -49.4858,
+    "lat": -28.9347
   },
   "weather": [
     {
@@ -13,34 +13,33 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 15.09,
-    "feels_like": 14.27,
-    "temp_min": 13.98,
-    "temp_max": 15.72,
-    "pressure": 1014,
-    "humidity": 62,
-    "sea_level": 1014,
-    "grnd_level": 1011
+    "temp": 30.99,
+    "feels_like": 34.1,
+    "temp_min": 30.99,
+    "temp_max": 30.99,
+    "pressure": 1012,
+    "humidity": 57,
+    "sea_level": 1012,
+    "grnd_level": 1012
   },
   "visibility": 10000,
   "wind": {
-    "speed": 4.63,
-    "deg": 180
+    "speed": 2.61,
+    "deg": 63,
+    "gust": 3.43
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1773756680,
+  "dt": 1773757477,
   "sys": {
-    "type": 2,
-    "id": 2075535,
-    "country": "GB",
-    "sunrise": 1773727832,
-    "sunset": 1773770841
+    "country": "BR",
+    "sunrise": 1773739177,
+    "sunset": 1773783183
   },
-  "timezone": 0,
-  "id": 2643743,
-  "name": "London",
+  "timezone": -10800,
+  "id": 3471772,
+  "name": "Araranguá",
   "cod": 200,
-  "_last_updated_utc": "2026-03-17T14:20:54.366Z"
+  "_last_updated_utc": "2026-03-17T14:24:37.999Z"
 }
