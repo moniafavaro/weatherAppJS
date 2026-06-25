@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 8.76,
-    "feels_like": 8.19,
-    "temp_min": 8.76,
-    "temp_max": 8.76,
-    "pressure": 1026,
-    "humidity": 61,
-    "sea_level": 1026,
-    "grnd_level": 1026
+    "temp": 17.03,
+    "feels_like": 15.73,
+    "temp_min": 17.03,
+    "temp_max": 17.03,
+    "pressure": 1025,
+    "humidity": 36,
+    "sea_level": 1025,
+    "grnd_level": 1025
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.54,
-    "deg": 309,
-    "gust": 2.15
+    "speed": 2.72,
+    "deg": 72,
+    "gust": 3.15
   },
   "clouds": {
-    "all": 3
+    "all": 92
   },
-  "dt": 1782390381,
+  "dt": 1782404993,
   "sys": {
     "country": "BR",
     "sunrise": 1782382295,
@@ -41,5 +41,5 @@
   "id": 3471772,
   "name": "Araranguá",
   "cod": 200,
-  "_last_updated_utc": "2026-06-25T12:26:21.920Z"
+  "_last_updated_utc": "2026-06-25T16:29:53.790Z"
 }
